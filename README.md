@@ -10,7 +10,7 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages & Tools**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,7 +40,7 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ramarh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramarh1&theme=dark&hide_border=false)
