@@ -56,5 +56,6 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 - 
   ---
 
-[![](https://visitcount.itsvg.in/api?id=ramarh1&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=ramarh1&style=flat-square)
+
 
