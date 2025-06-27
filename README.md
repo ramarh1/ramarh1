@@ -53,6 +53,7 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 - 🗳️ **BlackStar Network** – A civic engagement platform to help Black communities organize and advocate  
 - 📊 **Community Conditions Dashboard** – Visualizing neighborhood-level housing, crime, health, and environment data  
 - 🎧 **Self-Hosted Music Streaming Platform** – A custom server using Koel for private music access and future plans for radio-style streaming features
+
   ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=ramarh1&style=flat-square)
