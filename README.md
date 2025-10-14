@@ -42,9 +42,9 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 
 ## GitHub Stats
 
-![](github-readme-stats-bpn2w9f46-ramarh1s-projects.vercel.app/api?username=ramarh1&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramarh1&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramarh1&theme=radical&hide_border=false&layout=compact)
+![](github-readme-stats-bpn2w9f46-ramarh1s-projects.vercel.app/api?username=ramarh1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramarh1&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramarh1&theme=dark&hide_border=false&layout=compact)
 
 ---
 
