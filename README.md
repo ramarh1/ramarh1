@@ -12,8 +12,8 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-hq7o.vercel.app/api?username=ramarh1&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="Ramar’s GitHub stats" />
- <img src="https://streak-stats.demolab.com/?user=ramarh1&theme=shadow_green&hide_border=false&v=1" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-stats-hq7o.vercel.app/api?username=ramarh1&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="Ramar’s GitHub stats" />
+ <img width="50%" src="https://streak-stats.demolab.com/?user=ramarh1&theme=shadow_green&hide_border=false&v=1" alt="GitHub Streak" />
 </div>
 
 ## Tech Stack
