@@ -47,13 +47,6 @@ I'm a data scientist, civic technologist, and full-stack developer based in Phil
 
 ---
 
-##  Fun Projects I'm Working On
-  
-- 📊 **Community Conditions Dashboard** – Visualizing neighborhood-level housing, crime, health, and environment data  
-- 🎧 **Self-Hosted Music Streaming Platform** – A custom server using Koel for private music access and future plans for radio-style streaming features
-
-  ---
-
 ![Profile views](https://komarev.com/ghpvc/?username=ramarh1&style=flat-square)
 
 
