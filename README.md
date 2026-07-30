@@ -1,8 +1,9 @@
-# 👋🏾 Hey, I'm Ramar Huntley
+# Hey, I'm Ramar Huntley
 
+Data Analyst with a background in Data Science (M.S.) and 3+ years of experience building dashboards, ETL pipelines, and survey tools for education and public health programs. I turn messy data into decisions using Python, SQL, Tableau, and Streamlit as my daily drivers. Currently exploring geospatial analysis and open data projects. Open to collaboration.
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramar-h-469457132)
 
