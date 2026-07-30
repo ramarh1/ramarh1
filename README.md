@@ -1,7 +1,5 @@
 # 👋🏾 Hey, I'm Ramar Huntley
 
-I'm a data scientist, civic technologist, and full-stack developer based in Philadelphia. I specialize in building tools for community empowerment, combining data, design, and code to drive social impact. Whether it's dashboards, data pipelines, or language-learning platforms, I love turning complex problems into clean, useful products.
-
 ---
 
 ## 🌐 Connect With Me
